@@ -61,6 +61,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prestonscott-coder/prestonscott-coder/output/snake.svg" alt="Snake animation" />
 
 ###
