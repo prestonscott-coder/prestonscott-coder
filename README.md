@@ -2,6 +2,21 @@
 
 ###
 
+<p align="left">I am passionate about using technology to help facilitate change in the financial world by providing better resources to those who may need it!</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/preston-scott-5b82771b6/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="preston.scott@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlmZW5xeTI5emk5OGQ1OTY4ZG5vb2ttbTg1cjVoMmVyMjhqZnUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10Q2IMOHo3taQU/giphy.webp"  />
 
 ###
@@ -34,13 +49,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/preston-scott-5b82771b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="preston.scott@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/prestonscott-coder/prestonscott-coder/output/snake.svg" alt="Snake animation" />
 
 ###
