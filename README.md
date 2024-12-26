@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">I am passionate about using technology to help facilitate change in the financial world by providing better resources to those who may need it!</h5>
+
 
 ###
 
