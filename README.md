@@ -1,5 +1,6 @@
 ###
-![background - Imgur](https://github.com/user-attachments/assets/3d1483cc-bd54-4c51-8fdd-d40ff00818ad)
+![github background pic](https://github.com/user-attachments/assets/0d42295f-48d3-42f7-b37d-c050ad7e7a6c)
+
 
 <h1 align="center">Hey there, I am Preston and I am a Full Stack Engineer!</h1>
 
