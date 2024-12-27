@@ -1,4 +1,7 @@
-<h1 align="center">Hi ! My name is Preston and I'm a fullstack engineer, from Florida.</h1>
+###
+![background - Imgur](https://github.com/user-attachments/assets/3d1483cc-bd54-4c51-8fdd-d40ff00818ad)
+
+<h1 align="center">Hey there, I am Preston and I am a Full Stack Engineer!</h1>
 
 ###
 
