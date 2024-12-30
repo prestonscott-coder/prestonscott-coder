@@ -7,8 +7,10 @@
 ###
 
 <h5 align="center">I am passionate about using technology to help facilitate change in the financial world by providing better resources to those who may need it!</h5>
-
-###
+<p align = "center"><a href="https://seresume.tiiny.site/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 
